@@ -1,0 +1,5 @@
+GENERATED REPORTS
+-> The orders performed between given start hour 5 and given end hour 12 : 7, 
+-> The products ordered more than 1 times so far : """La Brea Tar Pit"" Chicken Wings ", """La Brea Tar Pit"" Chicken Wings ", """La Brea Tar Pit"" Chicken Wings ", """La Brea Tar Pit"" Chicken Wings ", """La Brea Tar Pit"" Chicken Wings ", """La Brea Tar Pit"" Chicken Wings ", """Redeye"" Braised Lamb Shanks and Beans ", """Redeye"" Braised Lamb Shanks and Beans ", """California Roll"" Salad "and plants,  & Currant Tea Scones  & Potato Salad with Mustard Vinaigrette ,  & Currant Tea Scones  & Potato Salad with Mustard Vinaigrette ,  & Currant Tea Scones  & Potato Salad with Mustard Vinaigrette , """California Roll"" Salad "and plants,  & Asparagus with Wasabi-Mayonnaise Dip  & Brussels Sprouts with Shallots and Wild Mushrooms  & Tropical Rainbow , """California Roll"" Salad "and plants, """Opulent"" Chicken ", 
+-> The clients that have ordered more than 1 times and the value of the order was higher than 1 : 
+-> The products ordered within 5.20.22 : 
